@@ -1,4 +1,4 @@
-# palm-langchain-mysql-question-answering-system
+# LLM-powered Q&A System with SQL Integration
 An end-to-end question-answering system built with Google's PaLM language model, Langchain, and MySQL. This system allows users to ask natural language questions related to inventory, sales, and discounts data stored in a MySQL database for the AtliQ Tees t-shirt store. It converts the user's questions into SQL queries, executes them on the database, and provides accurate answers leveraging the power of the PaLM language model and the Langchain framework."
 This description covers the following key points:
 
